@@ -1,0 +1,49 @@
+<html>
+
+<HEAD><TITLE>
+
+List
+
+</TITLE></HEAD>
+
+<body bgcolor="aqua">
+
+<font face="times new roman" color="blue" size=7>
+
+<center><b><i>INDIA</i></b></center></font>
+
+<p width="120">
+
+<b><u>SOIL TYPES IN INDIA</u></b>
+
+<ul>
+
+<li>Mountainous</li>
+
+<li>Alluvial</li>
+
+<li>Red</li>
+
+<li>Black</li>
+
+<li>Laterite</li>
+
+<li>Desert</li>
+
+</ul>
+
+<b><u>NEW INDIAN STATES</u></b>
+
+<ol>
+
+<li>Jharkhand</li>
+
+<li>Uttaranchal</li>
+
+<li>Chhattisgarh</li>
+
+</ol>
+
+<img src="C:\Users\ACER\Desktop\india.jpg" height="480" width="280" align="right">
+
+</HTML>
